@@ -3,6 +3,8 @@
 This project demonstrates interfacing six LEDs with Arduino UNO
 and generating a snake (running light) pattern using Tinkercad.
 
+![image](image.png)
+
 ## Components Used
 - Arduino UNO
 - 6 LEDs
